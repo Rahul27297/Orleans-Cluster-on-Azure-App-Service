@@ -6,8 +6,8 @@ on:
     - main
 
 env:
-  UNIQUE_APP_NAME: net7cart
-  AZURE_RESOURCE_GROUP_NAME: orleanscartrg
+  UNIQUE_APP_NAME: shoopingcartdemo
+  AZURE_RESOURCE_GROUP_NAME: RG1
   AZURE_RESOURCE_GROUP_LOCATION: westus
 
 jobs:
